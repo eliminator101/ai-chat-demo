@@ -1,0 +1,16 @@
+{
+  "name": "ai-chat-openrouter",
+  "version": "1.0.0",
+  "description": "Simple AI chat app using OpenRouter free models",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["ai", "chat", "openrouter"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
