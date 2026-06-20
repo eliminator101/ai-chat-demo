@@ -9,9 +9,6 @@ node_modules/
 __pycache__/
 *.pyc
 
-# Local server fallback (not needed for deployment)
-server.py
-
 # OS files
 .DS_Store
 Thumbs.db
